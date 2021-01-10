@@ -117,6 +117,24 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Jenny",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Ben",
+      "species": "Rabbit",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
